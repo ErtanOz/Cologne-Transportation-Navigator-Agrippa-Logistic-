@@ -1,0 +1,7 @@
+{
+  "name": "AgrippaLogistics Cologne",
+  "description": "An interactive logistics map for Cologne (Köln) analyzing street suitability for heavy vehicles (LKW) and predicting traffic congestion patterns using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
